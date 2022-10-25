@@ -38,7 +38,7 @@ The IMC calculation is a project dedicated to the calculation of body mass, the 
 
 ## 📲 Links
 
-- Live Site URL: 
+- Live Site URL: https://merry-granita-7bb547.netlify.app/
 
 ---
 
